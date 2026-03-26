@@ -12,9 +12,5 @@ Java · Kotlin · Go · Python · Spring Boot · Kafka · PostgreSQL · Redis ·
 - MCP tooling
 - Distributed systems design
 
-## Projects
-- [mcp-weather-demo](https://github.com/pratik1sharma-dev/mcp-weather-demo) — experimenting with MCP
-- [insta-poster](https://github.com/pratik1sharma-dev/insta-poster) — automation tool
-- [graphql-java-spring-boot-example](https://github.com/pratik1sharma-dev/graphql-java-spring-boot-example) — GraphQL + Spring Boot
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue)](https://linkedin.com/in/pratik-sharma-942313b)
